@@ -37,5 +37,33 @@
         "type": "Boolean",
         "validations": [],
         "required": false
+    },
+    {
+        "name": "about",
+        "displayName": "about",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "experience",
+        "displayName": "experience",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "achievements",
+        "displayName": "achievements",
+        "type": "Object",
+        "validations": [],
+        "required": false
+    },
+    {
+        "name": "quote",
+        "displayName": "quote",
+        "type": "Object",
+        "validations": [],
+        "required": false
     }
 ]
