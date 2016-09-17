@@ -12,8 +12,7 @@
    {"class":"work-list","title1":"2014-2015","url":"#","title2":"Garuda Indonesia","title3":"System Designer"}
    ]
  },
- "achievements":{ "title":"Award &amp;<br>Achievements","items":[{"class":"award-list list-flat","title1":"January 2014","title2":"Attained PHP5 certification","title3":"Hold world/Olympic record"}, {"class":"award-list list-flat","title1":"December 2014","title2":"Audited
-X number of clients in only Y amount of time","title3":"Held a perfect attendance record"}, {"class":"award-list list-flat","title1":"March 2014","title2":"Placed employees at X companies","title3":"United multiple teams post-merger"} ] },
+ "achievements":{ "title":"Award &amp;<br>Achievements","items":[{"class":"award-list list-flat","title1":"January 2014","title2":"Attained PHP5 certification","title3":"Hold world/Olympic record"}, {"class":"award-list list-flat","title1":"December 2014","title2":"Audited X number of clients in only Y amount of time","title3":"Held a perfect attendance record"}, {"class":"award-list list-flat","title1":"March 2014","title2":"Placed employees at X companies","title3":"United multiple teams post-merger"} ] },
 "quote":{"title":"fight against the ugliness."}
 }
 ---
